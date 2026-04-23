@@ -1,0 +1,6 @@
+# Robots.txt untuk Pusat Bantuan Bank Aceh Syariah
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://pusat-bantuan-bank-aceh-syariah.vercel.app/sitemap.xml
